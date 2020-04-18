@@ -12,3 +12,6 @@ class sample {
 // ー処理が遅い
 // 思想
 // ーWrite Once, Run Anywhere
+
+// javac sample.java
+// jaca sample
